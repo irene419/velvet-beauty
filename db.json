@@ -1,0 +1,94 @@
+{
+  "store_info": [
+    {
+      "id": "1",
+      "name": "Velvet Beauty",
+      "description": "Your go-to store for premium skincare and makeup",
+      "phone_number": "0712345678",
+      "email": "hello@velvetbeauty.com",
+      "address": "456 Glow Avenue, Nairobi"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Matte Lipstick",
+      "description": "Long-lasting matte finish lipstick in deep red.",
+      "category": "Lips",
+      "price": 18.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Matte+Lipstick",
+      "shade": "Deep Red",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "name": "Glow Serum",
+      "description": "Vitamin C brightening serum for radiant skin.",
+      "category": "Skincare",
+      "price": 35.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Glow+Serum",
+      "shade": "N/A",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "Smoky Eyeshadow Palette",
+      "description": "12 highly pigmented shades for a sultry smoky eye.",
+      "category": "Eyes",
+      "price": 42.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Eyeshadow+Palette",
+      "shade": "Smoky Nudes",
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "Velvet Foundation",
+      "description": "Full coverage foundation with a natural satin finish.",
+      "category": "Face",
+      "price": 28.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Foundation",
+      "shade": "Warm Beige",
+      "inStock": false
+    },
+    {
+      "id": "5",
+      "name": "Hydrating Face Mask",
+      "description": "Deep hydration overnight mask for glowing skin.",
+      "category": "Skincare",
+      "price": 22.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Face+Mask",
+      "shade": "N/A",
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "Liquid Eyeliner",
+      "description": "Precision tip liquid eyeliner for a sharp wing.",
+      "category": "Eyes",
+      "price": 14.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Eyeliner",
+      "shade": "Jet Black",
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "Nude Lip Gloss",
+      "description": "High shine lip gloss with a plumping effect.",
+      "category": "Lips",
+      "price": 12.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Lip+Gloss",
+      "shade": "Peachy Nude",
+      "inStock": true
+    },
+    {
+      "id": "8",
+      "name": "Setting Powder",
+      "description": "Translucent setting powder for a flawless finish.",
+      "category": "Face",
+      "price": 20.00,
+      "image": "https://placehold.co/300x200/1a1a2e/ffffff?text=Setting+Powder",
+      "shade": "Translucent",
+      "inStock": true
+    }
+  ]
+}
